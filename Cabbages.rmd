@@ -45,6 +45,12 @@ When analyzing the boxplot, it seems as though c52 gives a significant amount of
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
+```{r}
+favstats(VitC~Cult,data=veggy)
+```
+
+  
+When referencing the data in the graph above, we see that the average value of c39 is 51.5 which is smaller than the average of c52 at 64.4.
 
 ## Inferential Results
 
