@@ -63,6 +63,10 @@ t.test(VitC~Cult,data=veggy)
   
 The p-value is 0.00000003405, this represents the chances of getting a result like this if the null hypothesis was actually true.
 
+
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+  
+Because the p-value happens to be a significantly small number, smaller than 1, it seems as though the null hypothesis cannot be true. It is safe to reject the null hypothesis. In conclusion, the c52 method produces more vitamin c than the c39 method.
