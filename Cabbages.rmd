@@ -1,8 +1,9 @@
 ---
 title: "Cabbages"
-author: "Put your name here!"
-date: "put the date here"
+author: "Cynthia Tellez"
+date: "September 2, 2021"
 output:
+  pdf_document: default
   html_document:
     df_print: paged
 ---
